@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+/* admin_panel */
+body {width:660px; margin:0 auto; padding:0px; margin-top:10px; background-color:#EFEFEF;}
+h1 {padding:4px;}
+
+#admin-panel-menu li{
+	padding:0 0 20px 0;
+	
+	}
+/*	
+#admin-panel-menu li a{
+	
+	font:bold 15px/17px Georgia;
+	background:#a8ddf7;
+	border-radius:4px;
+	padding:5px 5px 5px 5px;
+	}	
+*/

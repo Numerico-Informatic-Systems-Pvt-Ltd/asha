@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+body {width:640px; padding:10px; background: #fff; background-color:#EFEFEF;
+	color: inherit;
+	padding: 3px;
+	vertical-align: top;
+	height: 440px;
+    margin:0 auto;
+    margin-top:10px;
+    border-radius:6px;
+}
+
+	#HomePageBg { background:url(../img/banner.jpg) no-repeat; width:601px; height:428px; }
+ 	#homeLoginLink {float:left; margin-top:359px; margin-left:8px; font-weight:900; text-decoration:none;
+					font-size:36px; background:#366; padding:10px; border-radius:6px; color:#fff;}
+
